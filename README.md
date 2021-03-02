@@ -1,1 +1,1 @@
-Program słuzy do usuwania plików po ścieżce.
+Program służy do usuwania plików po ścieżce.
